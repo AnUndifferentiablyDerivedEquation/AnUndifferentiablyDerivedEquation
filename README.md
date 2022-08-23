@@ -1,3 +1,4 @@
-Hi, I’m @AnUndifferentiablyDerivedEquation
-I’m mainly interested in Java. Trying to learn C, C++, JS, and Python
+Hi, I’m @AnUndifferentiablyDerivedEquation.<br>
+I’m mainly interested in Java.<br>
+Trying to learn C, C++, JS, and Python. 
 
